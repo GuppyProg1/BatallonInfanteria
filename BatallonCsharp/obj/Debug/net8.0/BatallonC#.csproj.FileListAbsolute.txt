@@ -1,0 +1,4 @@
+c:\TrabajosPOO\BatallonInfanteria\BatallonC#\obj\Debug\net8.0\BatallonC#.GeneratedMSBuildEditorConfig.editorconfig
+c:\TrabajosPOO\BatallonInfanteria\BatallonC#\obj\Debug\net8.0\BatallonC#.AssemblyInfoInputs.cache
+c:\TrabajosPOO\BatallonInfanteria\BatallonC#\obj\Debug\net8.0\BatallonC#.AssemblyInfo.cs
+c:\TrabajosPOO\BatallonInfanteria\BatallonC#\obj\Debug\net8.0\BatallonC#.csproj.CoreCompileInputs.cache

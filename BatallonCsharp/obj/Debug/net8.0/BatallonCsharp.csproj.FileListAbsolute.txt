@@ -1,0 +1,14 @@
+C:\TrabajosPOO\BatallonInfanteria\BatallonCsharp\obj\Debug\net8.0\BatallonCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\TrabajosPOO\BatallonInfanteria\BatallonCsharp\obj\Debug\net8.0\BatallonCsharp.AssemblyInfoInputs.cache
+C:\TrabajosPOO\BatallonInfanteria\BatallonCsharp\obj\Debug\net8.0\BatallonCsharp.AssemblyInfo.cs
+C:\TrabajosPOO\BatallonInfanteria\BatallonCsharp\obj\Debug\net8.0\BatallonCsharp.csproj.CoreCompileInputs.cache
+C:\TrabajosPOO\BatallonInfanteria\BatallonCsharp\bin\Debug\net8.0\BatallonCsharp.exe
+C:\TrabajosPOO\BatallonInfanteria\BatallonCsharp\bin\Debug\net8.0\BatallonCsharp.deps.json
+C:\TrabajosPOO\BatallonInfanteria\BatallonCsharp\bin\Debug\net8.0\BatallonCsharp.runtimeconfig.json
+C:\TrabajosPOO\BatallonInfanteria\BatallonCsharp\bin\Debug\net8.0\BatallonCsharp.dll
+C:\TrabajosPOO\BatallonInfanteria\BatallonCsharp\bin\Debug\net8.0\BatallonCsharp.pdb
+C:\TrabajosPOO\BatallonInfanteria\BatallonCsharp\obj\Debug\net8.0\BatallonCsharp.dll
+C:\TrabajosPOO\BatallonInfanteria\BatallonCsharp\obj\Debug\net8.0\refint\BatallonCsharp.dll
+C:\TrabajosPOO\BatallonInfanteria\BatallonCsharp\obj\Debug\net8.0\BatallonCsharp.pdb
+C:\TrabajosPOO\BatallonInfanteria\BatallonCsharp\obj\Debug\net8.0\BatallonCsharp.genruntimeconfig.cache
+C:\TrabajosPOO\BatallonInfanteria\BatallonCsharp\obj\Debug\net8.0\ref\BatallonCsharp.dll
